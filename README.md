@@ -1,3 +1,40 @@
+# 📊 Sales Performance Analysis
+
+This project analyzes customer purchasing behavior and sales trends. Below is the quick-access hub for all project assets.
+
+### 📍 Quick Navigation
+| 📂 Data Files | 📊 Dashboard | 📝 Analysis Report |
+| :--- | :--- | :--- |
+| [Customer & Order Data](#-data-preview) | [View Full Dashboard](https://github.com/bwasike01-droid/powerbi-sales-analysis./blob/main/power%20bi%20screenshot.png) | [Read README.md](./README.md) |
+
+---
+
+### 🖼️ Dashboard Preview
+[![Sales Dashboard](https://github.com/bwasike01-droid/powerbi-sales-analysis./blob/main/power%20bi%20screenshot.png?raw=true)](https://github.com/bwasike01-droid/powerbi-sales-analysis./blob/main/power%20bi%20screenshot.png)
+
+---
+
+### 📁 Data Preview
+Below is a sample of the datasets used in this analysis.
+
+#### **Orders Table (Top 5)**
+| Order ID | Date | Product | Category | Sales |
+| :--- | :--- | :--- | :--- | :--- |
+| O0001 | 17/01/2026 | iPhone 16 | Smartphone | $1000.0 |
+| O0002 | 30/11/2025 | Bluetooth Headphones | Accessory | $119.7 |
+| O0003 | 08/07/2024 | Dell XPS 15 | Laptop | $3332.0 |
+| O0004 | 15/08/2026 | ThinkPad X1 | Laptop | $1454.4 |
+| O0005 | 11/04/2026 | OnePlus 13 | Smartphone | $806.0 |
+
+#### **Customer Table**
+| ID | Name | Country | City | Score |
+| :--- | :--- | :--- | :--- | :--- |
+| C001 | Alex Johnson | USA | San Francisco | 20 |
+| C005 | Aarav Kumar | USA | Miami | 150 |
+| C010 | Emily Brown | China | Shenzhen | 350 |
+
+
+
 📊 Sales Performance Report – 2026
 1. Overview
 
@@ -64,3 +101,9 @@ Expand the customer base to reduce dependency on a small number of buyers.
 7. Conclusion
 
 The 2026 Sales Dashboard demonstrates strong overall performance, largely driven by laptop sales. Strategic improvements in product diversification, customer acquisition, and regional targeting can enhance long-term growth and business sustainability.
+
+---
+### 🛠️ Tech Stack
+* **Tool:** Power BI
+* **Data Source:** CSV (Sales & Customer Data)
+* **Skills:** Data Modeling, DAX, Visualization
